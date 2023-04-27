@@ -1,2 +1,2 @@
 # mydataset-for-cylinder3D
-graduation program
+personal use
